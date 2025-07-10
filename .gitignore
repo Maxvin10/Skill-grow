@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Env fayl (tokenlar, API kalitlar)
+.config
+
+# IDE va sistemalarga tegishli
+.vscode/
+.idea/
+
+# Loglar
+*.log
+
+# SQLite baza
+*.sqlite3
